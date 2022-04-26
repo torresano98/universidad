@@ -1,0 +1,132 @@
+﻿Número;Distrito;Barrio;Superficie (km²);Densidad (Hab/Ha);Precio (€/m2);Esperanza de Vida (Años);Renta media (€)
+24;Arganzuela;Legazpi;1,396;138,37;4394;82,9;46590
+22;Arganzuela;Acacias;1,074;339,05;4188;84,4;43512
+21;Arganzuela;Imperial;0,967;233,51;3922;83,7;41022
+25;Arganzuela;Delicias;1,057;269,03;3904;83,5;37964
+27;Arganzuela;Atocha;0,775;19,63;4888;78,8;36649
+26;Arganzuela;Palos de Moguer;0,643;397,65;3943;83,3;32218
+23;Arganzuela;Chopera;0,566;353,60;3625;83,4;30205
+215;Barajas;Corralejos;4,633;16,37;3476;84,7;64548
+211;Barajas;Alameda de Osuna;1,961;99,76;3273;83,9;51560
+214;Barajas;Timón;9,595;26,17;3088;83;38994
+213;Barajas;Casco Histórico de Barajas;0,609;136,59;3104;83;32839
+212;Barajas;Aeropuerto;25,132;0,65;-;81,8;22835
+116;Carabanchel;Buenavista;5,613;85,53;1982;82,8;29879
+112;Carabanchel;Opañel;1,106;303,95;2339;82,7;27181
+114;Carabanchel;Vista Alegre;1,589;296,26;2044;83,2;27013
+117;Carabanchel;Abrantes;1,564;201,44;1883;82,6;26841
+111;Carabanchel;Comillas;0,666;340,72;2702;83,3;26236
+113;Carabanchel;San Isidro;1,899;209,17;2303;82,7;24847
+115;Carabanchel;Puerta Bonita;1,607;223,46;1942;82,1;24384
+14;Centro;Justicia;0,742;246,25;5893;81,4;35913
+11;Centro;Palacio;1,471;160,45;4852;79,5;32445
+13;Centro;Cortes;0,592;182,25;5272;80,9;32403
+15;Centro;Universidad;0,947;352,59;5282;82,8;28883
+16;Centro;Sol;0,445;179,50;5110;79,1;27707
+12;Centro;Embajadores;1,032;456,97;4479;82;23833
+51;Chamartín;El Viso;1,708;101,99;6263;84,7;113001
+55;Chamartín;Nueva España;1,788;139,74;5296;84,8;77392
+54;Chamartín;Hispanoamérica;1,707;187,10;5173;84,2;61177
+56;Chamartín;Castilla;2,16;79,71;4376;85,1;55731
+52;Chamartín;Prosperidad;1,043;355,17;4288;83;42259
+53;Chamartín;Ciudad Jardín;0,762;247,84;4563;83,5;41736
+74;Chamberí;Almagro;0,937;208,39;6728;84;69449
+76;Chamberí;Vallehermoso;1,068;187,69;4544;84,3;56812
+75;Chamberí;Ríos Rosas;0,971;279,02;4397;84,4;47942
+71;Chamberí;Gaztambide;0,506;453,09;4894;83,8;42285
+72;Chamberí;Arapiles;0,578;419,56;4996;83;40170
+73;Chamberí;Trafalgar;0,611;402,50;5569;83,5;39428
+159;Ciudad Lineal;Costillares;1,427;154,66;4267;83,9;64341
+158;Ciudad Lineal;Atalaya;0,248;63,48;3146;84,1;62597
+156;Ciudad Lineal;San Juan Bautista;1,01;123,50;4288;83,9;55567
+157;Ciudad Lineal;Colina;0,559;113,76;4660;83,9;52757
+155;Ciudad Lineal;San Pascual;1,052;169,30;3402;84,2;41228
+154;Ciudad Lineal;Concepción;0,885;233,96;3259;83,7;33377
+153;Ciudad Lineal;Quintana;0,722;340,48;2828;83,6;29504
+152;Ciudad Lineal;Pueblo Nuevo;2,319;270,48;2496;82,8;29206
+151;Ciudad Lineal;Ventas;3,198;151,38;2665;83,9;27436
+82;Fuencarral-El Pardo;Fuentelarreina;1,382;24,27;3439;84,9;97930
+87;Fuencarral-El Pardo;Mirasierra;6,975;49,43;3645;82,8;73750
+85;Fuencarral-El Pardo;La Paz;2,159;153,17;3580;84,4;57509
+88;Fuencarral-El Pardo;El Goloso;26,509;7,14;3543;88,7;52624
+83;Fuencarral-El Pardo;Peñagrande;2,89;153,72;3283;83,1;44659
+86;Fuencarral-El Pardo;Valverde;8,977;71,31;4088;82,2;39881
+81;Fuencarral-El Pardo;El Pardo;187,642;0,18;3311;80,2;36340
+84;Fuencarral-El Pardo;El Pilar;1,359;337,22;3282;83,6;33138
+162;Hortaleza;Piovera;3,139;31,88;4275;83,4;101620
+161;Hortaleza;Palomas;1,128;39,68;3732;78,8;77837
+166;Hortaleza;Valdefuentes;16,778;24,78;4034;83,2;52806
+163;Hortaleza;Canillas;2,516;97,72;3241;84,4;38581
+165;Hortaleza;Apóstol Santiago;1,204;85,83;2850;84,2;35149
+164;Hortaleza;Pinar del Rey;2,632;121,53;2887;83,6;33645
+106;Latina;Cuatro Vientos;5,419;10,82;-;80,6;35486
+105;Latina;Campamento;9,157;21,30;2237;82,5;30638
+104;Latina;Aluche;2,849;234,99;2212;84;30206
+103;Latina;Lucero;1,679;217,84;2380;84;29136
+107;Latina;Las Águilas;3,609;142,95;2182;83,2;29036
+101;Latina;Los Cármenes;1,292;136,05;2398;82,98;26865
+102;Latina;Puerta del Ángel;1,374;305,26;2498;83,2;26497
+96;Moncloa-Aravaca;El Plantío;3,554;8,26;2638;79,2;114186
+95;Moncloa-Aravaca;Valdemarín;3,305;20,76;4404;81,2;111689
+97;Moncloa-Aravaca;Aravaca;5,855;47,25;3742;82;72528
+93;Moncloa-Aravaca;Ciudad Universitaria;14,248;11,35;3652;83,2;64475
+92;Moncloa-Aravaca;Argüelles;0,755;318,96;4957;82,9;51926
+91;Moncloa-Aravaca;Casa de Campo;17,47;7,48;-;82,7;40609
+94;Moncloa-Aravaca;Valdezarza;1,397;215,33;2989;83,7;33997
+142;Moratalaz;Horcajo;0,745;85,41;2469;82,2;41991
+143;Moratalaz;Marroquina;1,789;148,92;2868;83,5;39335
+144;Moratalaz;Media Legua;0,999;176,78;2664;83,5;34988
+141;Moratalaz;Pavones;1,016;88,86;2222;81;33197
+146;Moratalaz;Vinateros;0,593;283,83;2500;84,3;28287
+145;Moratalaz;Fontarrón;0,964;179,25;2207;81,8;27349
+133;Puente de Vallecas;Palomeras Bajas;1,724;234,75;2108;82,8;27963
+134;Puente de Vallecas;Palomeras Sureste;3,118;138,08;2012;82,3;25307
+136;Puente de Vallecas;Numancia;1,849;260,22;2082;82,8;23662
+135;Puente de Vallecas;Portazgo;1,245;230,76;1826;81,3;22797
+131;Puente de Vallecas;Entrevías;5,997;59,01;1558;80;20937
+132;Puente de Vallecas;San Diego;1,069;407,28;2051;82,1;19765
+36;Retiro;Niño Jesús;0,643;237,84;4792;83,8;69740
+35;Retiro;Jerónimos;1,9;36,34;7994;84,9;68950
+33;Retiro;Estrella;1,025;224,77;4155;85,4;57297
+34;Retiro;Ibiza;0,49;438,20;5433;82,8;44356
+32;Retiro;Adelfas;0,64;291,09;4213;82,5;44308
+31;Retiro;Pacífico;0,75;436,10;4149;84,2;40851
+46;Salamanca;Castellana;0,773;221,65;7118;84,1;83082
+41;Salamanca;Recoletos;0,87;179,00;8441;84,1;82755
+42;Salamanca;Goya;0,771;382,70;5875;83,8;47232
+45;Salamanca;Lista;0,52;401,07;5713;84,7;46933
+43;Salamanca;Fuente del Berro;0,852;245,88;4474;83,9;39343
+44;Salamanca;La Guindalera;1,598;261,66;4369;82,98;32654
+208;San Blas-Canillejas;Salvador;1,881;60,44;3074;84,5;53791
+205;San Blas-Canillejas;Rosas;9,388;33,92;3121;83,8;41993
+206;San Blas-Canillejas;Rejas;5,007;34,09;3022;85,2;36011
+207;San Blas-Canillejas;Canillejas;1,598;181,04;2360;83,1;30764
+201;San Blas-Canillejas;Simancas;2,278;124,99;2600;83,1;29645
+204;San Blas-Canillejas;Arcos;1,305;188,80;2130;81,5;26735
+202;San Blas-Canillejas;Hellín;0,549;169,99;1925;81,5;22633
+203;San Blas-Canillejas;Amposta;0,37;239,97;2073;78,4;20885
+63;Tetuán;Castillejos;0,708;291,49;4252;84,4;44890
+62;Tetuán;Cuatro Caminos;1,193;293,81;4362;83,5;40897
+61;Tetuán;Bellas Vistas;0,716;412,00;3365;83,1;29189
+64;Tetuán;Almenara;0,999;227,52;3419;82,6;27382
+66;Tetuán;Berruguete;0,607;422,74;3263;82,8;26857
+65;Tetuán;Valdeacederas;1,163;228,85;3099;83;26531
+121;Usera;Orcasitas;1,356;170,27;1809;81,3;25886
+125;Usera;Moscardó;0,908;292,95;2209;82,2;24962
+126;Usera;Zofío;0,775;185,21;1889;84,3;24303
+123;Usera;San Fermín;1,463;161,57;2041;82,1;24196
+124;Usera;Almendrales;0,772;288,61;2180;83,4;24167
+122;Usera;Orcasur;1,384;101,93;1728;80,6;23155
+127;Usera;Pradolongo;1,095;163,42;2097;82,7;21750
+191;Vicálvaro;Casco Histórico de Vicálvaro;32,924;10,71;2145;82,9;33101
+192;Vicálvaro;Valdebernardo;2,354;52,03;2895;82,98;32427
+193;Vicálvaro;Valderrivas;4,25;188,54;2764;82,98;31452
+194;Vicálvaro;El Cañaveral;5,38;3,10;2420;82,98;28548
+182;Villa de Vallecas;Santa Eugenia;2,07;116,76;2285;82,3;35176
+181;Villa de Vallecas;Casco Histórico de Vallecas;49,359;9,35;2018;82,8;26951
+183;Villa de Vallecas;Ensanche de Vallecas;7,35;79,17;1949;82,98;21976
+173;Villaverde;Butarque;6,425;32,50;2143;82;28093
+175;Villaverde;Los Ángeles;1,944;168,83;1504;83,2;27746
+174;Villaverde;Los Rosales;1,511;245,27;1869;83,3;27223
+171;Villaverde;Villaverde Alto;9,192;50,40;1702;82,98;20648
+172;Villaverde;San Cristóbal;1,106;156,92;1467;81,3;17786
