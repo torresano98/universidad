@@ -1,0 +1,132 @@
+Barrio;Renta;Precio;Edad
+ Palacio;38973.54;4714;43.88
+ Embajadores;29471.72;4231;43.88
+ Cortes;40962.52;5041;43.88
+ Justicia;48202.79;5773;43.88
+ Universidad;35344.23;5144;43.88
+ Sol;35056.89;4769;43.88
+ Imperial;46879.4;4359;44.9
+ Acacias;47683.22;4081;44.9
+ Chopera;35015.46;3738;44.9
+ Legazpi;52569.14;4539;44.9
+ Delicias;43018.08;3949;44.9
+ Palos de Moguer;37389.1;3931;44.9
+ Atocha;42657;3657;44.9
+ Pacífico;44831.76;4194;47.31
+ Adelfas;49538.41;4079;47.31
+ Estrella;63495.1;4250;47.31
+ Ibiza;50079.65;5358;47.31
+ Jerónimos;72996.65;7016;47.31
+ Niño Jesús;70945.17;4965;47.31
+ Recoletos;81691.88;8335;46.2
+ Goya;54456.35;5805;46.2
+ Fuente del Berro;44221.15;4527;46.2
+ Guindalera;50063.95;4182;46.2
+ Lista;54487.68;5922;46.2
+ Castellana;81379.77;6919;46.2
+ El Viso;80370.38;6485;45.52
+ Prosperidad;46804.54;4375;45.52
+ Ciudad Jardín;48943.8;4617;45.52
+ Hispanoamérica;69389.19;5400;45.52
+ Nueva España;78097.75;5866;45.52
+ Castilla;61310.18;4332;45.52
+ Bellas Vistas;33573.84;3358;44.02
+ Cuatro Caminos;46339.29;4426;44.02
+ Castillejos;48631.36;4416;44.02
+ Almenara;31609.35;3317;44.02
+ Valdeacederas;30163.55;3301;44.02
+ Berruguete;31387.41;3262;44.02
+ Gaztambide;46630.31;4582;46.36
+ Arapiles;46882.35;5087;46.36
+ Trafalgar;46189.81;5402;46.36
+ Almagro;68836.57;6451;46.36
+ Ríos Rosas;53843.76;5301;46.36
+ Vallehermoso;61470.14;5075;46.36
+ El Pardo;38883.06;5786;43.21
+ Fuentelarreina;90678.01;3439;43.21
+ Peñagrande;48909.23;3507;43.21
+ Pilar;35593.89;3284;43.21
+ La Paz;61899.27;3753;43.21
+ Valverde;46290.12;3765;43.21
+ Mirasierra;72361;2652;43.21
+ El Goloso;67420.16;4111;43.21
+ Casa de Campo;44963.64;3948;44.65
+ Argüelles;55125.07;4837;44.65
+ Ciudad Universitaria;65329.88;3857;44.65
+ Valdezarza;37335.06;2971;44.65
+ Valdemarín;90897.21;4084;44.65
+ El Plantío;91933;2764;44.65
+ Aravaca;72999.42;4032;44.65
+ Los Cármenes;31467.29;2310;46.51
+ Puerta del Angel;29648.29;2543;46.51
+ Lucero;31918.16;2209;46.51
+ Aluche;32610.57;2192;46.51
+ Campamento;33453.68;2132;46.51
+ Cuatro Vientos;37420.82;2270;46.51
+ Las Águilas;31643.58;2186;46.51
+ Comillas;29443.75;2748;43.44
+ Opañel;30002.23;2276;43.44
+ San Isidro;28092.37;2223;43.44
+ Vista Alegre;29307.23;2087;43.44
+ Puerta Bonita;27424.76;1951;43.44
+ Buenavista;33557.77;1943;43.44
+ Abrantes;30008.89;1943;43.44
+ Orcasitas;29430.38;1821;42.35
+ Orcasur;27366.62;1874;42.35
+ San Fermín;27478.42;1874;42.35
+ Almendrales;27823.39;1992;42.35
+ Moscardó;28148.59;2311;42.35
+ Zofio;27571.86;1964;42.35
+ Pradolongo;24711.28;1940;42.35
+ Entrevías;24123.88;1504;43.23
+ San Diego;23112.06;1942;43.23
+ Palomeras Bajas;30752.48;1933;43.23
+ Palomeras Sureste;28901.72;1922;43.23
+ Portazgo;25564.47;1932;43.23
+ Numancia;26666.04;2105;43.23
+ Pavones;35783.76;2531;47.9
+ Horcajo;47612.44;2531;47.9
+ Marroquina;42558.6;2903;47.9
+ Media Legua;37694.34;2625;47.9
+ Fontarrón;29819.76;2303;47.9
+ Vinateros;30745.19;2515;47.9
+ Ventas;30442.35;2559;45.98
+ Pueblo Nuevo;32027.75;2537;45.98
+ Quintana;32082.06;2913;45.98
+ Concepción;37233.32;3257;45.98
+ San Pascual;44222.13;3419;45.98
+ San Juan Bautista;61278.01;4346;45.98
+ Colina;56252.58;4792;45.98
+ Atalaya;69982;2968;45.98
+ Costillares;70458.55;4228;45.98
+ Palomas;85614.14;4193;42.54
+ Piovera;85549.1;4624;42.54
+ Canillas;42659.21;3305;42.54
+ Pinar del Rey;35784.21;2904;42.54
+ Apóstol Santiago;38899.83;2995;42.54
+ Valdefuentes;58384.05;4204;42.54
+ Villaverde;26701.12;1690;42.09
+ San Cristóbal;21070.67;1391;42.09
+ Butarque;31436.88;2208;42.09
+ Los Rosales;30320.21;1785;42.09
+ Los Ángeles;29951.56;1864;42.09
+ Casco Histórico de Vallecas;26309.2;1927;39.3
+ Santa Eugenia;38641.29;2301;39.3
+ Ensanche de Vallecas;35064.55;2913;39.3
+ Casco Histórico de Vicálvaro;25968.31;2073;41.19
+ Valdebernardo;41477.94;3000;41.19
+ Valderrivas;42775.47;2413;41.19
+ El Cañaveral;34452;2878;41.19
+ Simancas;33592.67;2620;43.4
+ Hellín;25719.86;2007;43.4
+ Amposta;23562.05;1851;43.4
+ Arcos;31150.39;2064;43.4
+ Rosas;46723.16;3332;43.4
+ Rejas;40746.13;3128;43.4
+ Canillejas;33554.49;2355;43.4
+ Salvador;57319.68;3462;43.4
+ Alameda de Osuna;55681.35;3542;42.21
+ Aeropuerto;27316;3360;42.21
+ Casco Histórico de Barajas;31625.65;2973;42.21
+ Timón;42831.02;3013;42.21
+ Corralejos;70874.2;3688;42.21
