@@ -1,0 +1,421 @@
+Distrito-A;Distrito-B;Vecino
+1. Centro;2. Arganzuela;True
+1. Centro;3. Retiro;True
+1. Centro;4. Salamanca;True
+1. Centro;5. Chamartín;True
+1. Centro;6. Tetuán;False
+1. Centro;7. Chamberí;True
+1. Centro;8. Fuencarral-El Pardo;False
+1. Centro;9. Moncloa;True
+1. Centro;10. Latina;True
+1. Centro;11. Carabanchel;False
+1. Centro;12. Usera;False
+1. Centro;13. Puente de Vallecas;False
+1. Centro;14. Moratalaz;False
+1. Centro;15. Ciudad Lineal;False
+1. Centro;16. Hortaleza;False
+1. Centro;17. Villaverde;False
+1. Centro;18. Villa de Vallecas;False
+1. Centro;19. Vicálvaro;False
+1. Centro;20. San Blas;False
+1. Centro;21. Barajas;False
+2. Arganzuela;1. Centro;True
+2. Arganzuela;3. Retiro;True
+2. Arganzuela;4. Salamanca;False
+2. Arganzuela;5. Chamartín;False
+2. Arganzuela;6. Tetuán;False
+2. Arganzuela;7. Chamberí;False
+2. Arganzuela;8. Fuencarral-El Pardo;False
+2. Arganzuela;9. Moncloa;False
+2. Arganzuela;10. Latina;True
+2. Arganzuela;11. Carabanchel;True
+2. Arganzuela;12. Usera;True
+2. Arganzuela;13. Puente de Vallecas;True
+2. Arganzuela;14. Moratalaz;False
+2. Arganzuela;15. Ciudad Lineal;False
+2. Arganzuela;16. Hortaleza;False
+2. Arganzuela;17. Villaverde;False
+2. Arganzuela;18. Villa de Vallecas;False
+2. Arganzuela;19. Vicálvaro;False
+2. Arganzuela;20. San Blas;False
+2. Arganzuela;21. Barajas;False
+3. Retiro;1. Centro;True
+3. Retiro;2. Arganzuela;True
+3. Retiro;4. Salamanca;True
+3. Retiro;5. Chamartín;False
+3. Retiro;6. Tetuán;False
+3. Retiro;7. Chamberí;False
+3. Retiro;8. Fuencarral-El Pardo;False
+3. Retiro;9. Moncloa;False
+3. Retiro;10. Latina;False
+3. Retiro;11. Carabanchel;False
+3. Retiro;12. Usera;False
+3. Retiro;13. Puente de Vallecas;True
+3. Retiro;14. Moratalaz;True
+3. Retiro;15. Ciudad Lineal;True
+3. Retiro;16. Hortaleza;False
+3. Retiro;17. Villaverde;False
+3. Retiro;18. Villa de Vallecas;False
+3. Retiro;19. Vicálvaro;False
+3. Retiro;20. San Blas;False
+3. Retiro;21. Barajas;False
+4. Salamanca;1. Centro;True
+4. Salamanca;2. Arganzuela;False
+4. Salamanca;3. Retiro;True
+4. Salamanca;5. Chamartín;True
+4. Salamanca;6. Tetuán;False
+4. Salamanca;7. Chamberí;True
+4. Salamanca;8. Fuencarral-El Pardo;False
+4. Salamanca;9. Moncloa;False
+4. Salamanca;10. Latina;False
+4. Salamanca;11. Carabanchel;False
+4. Salamanca;12. Usera;False
+4. Salamanca;13. Puente de Vallecas;False
+4. Salamanca;14. Moratalaz;True
+4. Salamanca;15. Ciudad Lineal;True
+4. Salamanca;16. Hortaleza;False
+4. Salamanca;17. Villaverde;False
+4. Salamanca;18. Villa de Vallecas;False
+4. Salamanca;19. Vicálvaro;False
+4. Salamanca;20. San Blas;False
+4. Salamanca;21. Barajas;False
+5. Chamartín;1. Centro;False
+5. Chamartín;2. Arganzuela;False
+5. Chamartín;3. Retiro;False
+5. Chamartín;4. Salamanca;True
+5. Chamartín;6. Tetuán;True
+5. Chamartín;7. Chamberí;True
+5. Chamartín;8. Fuencarral-El Pardo;True
+5. Chamartín;9. Moncloa;False
+5. Chamartín;10. Latina;False
+5. Chamartín;11. Carabanchel;False
+5. Chamartín;12. Usera;False
+5. Chamartín;13. Puente de Vallecas;False
+5. Chamartín;14. Moratalaz;False
+5. Chamartín;15. Ciudad Lineal;True
+5. Chamartín;16. Hortaleza;True
+5. Chamartín;17. Villaverde;False
+5. Chamartín;18. Villa de Vallecas;False
+5. Chamartín;19. Vicálvaro;False
+5. Chamartín;20. San Blas;False
+5. Chamartín;21. Barajas;False
+6. Tetuán;1. Centro;False
+6. Tetuán;2. Arganzuela;False
+6. Tetuán;3. Retiro;False
+6. Tetuán;4. Salamanca;True
+6. Tetuán;5. Chamartín;True
+6. Tetuán;7. Chamberí;True
+6. Tetuán;8. Fuencarral-El Pardo;True
+6. Tetuán;9. Moncloa;True
+6. Tetuán;10. Latina;False
+6. Tetuán;11. Carabanchel;False
+6. Tetuán;12. Usera;False
+6. Tetuán;13. Puente de Vallecas;False
+6. Tetuán;14. Moratalaz;False
+6. Tetuán;15. Ciudad Lineal;False
+6. Tetuán;16. Hortaleza;False
+6. Tetuán;17. Villaverde;False
+6. Tetuán;18. Villa de Vallecas;False
+6. Tetuán;19. Vicálvaro;False
+6. Tetuán;20. San Blas;False
+6. Tetuán;21. Barajas;False
+7. Chamberí;1. Centro;True
+7. Chamberí;2. Arganzuela;False
+7. Chamberí;3. Retiro;True
+7. Chamberí;4. Salamanca;True
+7. Chamberí;5. Chamartín;True
+7. Chamberí;6. Tetuán;True
+7. Chamberí;8. Fuencarral-El Pardo;False
+7. Chamberí;9. Moncloa;True
+7. Chamberí;10. Latina;False
+7. Chamberí;11. Carabanchel;False
+7. Chamberí;12. Usera;False
+7. Chamberí;13. Puente de Vallecas;False
+7. Chamberí;14. Moratalaz;False
+7. Chamberí;15. Ciudad Lineal;False
+7. Chamberí;16. Hortaleza;False
+7. Chamberí;17. Villaverde;False
+7. Chamberí;18. Villa de Vallecas;False
+7. Chamberí;19. Vicálvaro;False
+7. Chamberí;20. San Blas;False
+7. Chamberí;21. Barajas;False
+8. Fuencarral-El Pardo;1. Centro;False
+8. Fuencarral-El Pardo;2. Arganzuela;False
+8. Fuencarral-El Pardo;3. Retiro;False
+8. Fuencarral-El Pardo;4. Salamanca;False
+8. Fuencarral-El Pardo;5. Chamartín;True
+8. Fuencarral-El Pardo;6. Tetuán;True
+8. Fuencarral-El Pardo;7. Chamberí;False
+8. Fuencarral-El Pardo;9. Moncloa;True
+8. Fuencarral-El Pardo;10. Latina;False
+8. Fuencarral-El Pardo;11. Carabanchel;False
+8. Fuencarral-El Pardo;12. Usera;False
+8. Fuencarral-El Pardo;13. Puente de Vallecas;False
+8. Fuencarral-El Pardo;14. Moratalaz;False
+8. Fuencarral-El Pardo;15. Ciudad Lineal;False
+8. Fuencarral-El Pardo;16. Hortaleza;True
+8. Fuencarral-El Pardo;17. Villaverde;False
+8. Fuencarral-El Pardo;18. Villa de Vallecas;False
+8. Fuencarral-El Pardo;19. Vicálvaro;False
+8. Fuencarral-El Pardo;20. San Blas;False
+8. Fuencarral-El Pardo;21. Barajas;False
+9. Moncloa;1. Centro;True
+9. Moncloa;2. Arganzuela;False
+9. Moncloa;3. Retiro;False
+9. Moncloa;4. Salamanca;False
+9. Moncloa;5. Chamartín;False
+9. Moncloa;6. Tetuán;True
+9. Moncloa;7. Chamberí;True
+9. Moncloa;8. Fuencarral-El Pardo;True
+9. Moncloa;10. Latina;True
+9. Moncloa;11. Carabanchel;False
+9. Moncloa;12. Usera;False
+9. Moncloa;13. Puente de Vallecas;False
+9. Moncloa;14. Moratalaz;False
+9. Moncloa;15. Ciudad Lineal;False
+9. Moncloa;16. Hortaleza;False
+9. Moncloa;17. Villaverde;False
+9. Moncloa;18. Villa de Vallecas;False
+9. Moncloa;19. Vicálvaro;False
+9. Moncloa;20. San Blas;False
+9. Moncloa;21. Barajas;False
+10. Latina;1. Centro;True
+10. Latina;2. Arganzuela;True
+10. Latina;3. Retiro;False
+10. Latina;4. Salamanca;False
+10. Latina;5. Chamartín;False
+10. Latina;6. Tetuán;False
+10. Latina;7. Chamberí;False
+10. Latina;8. Fuencarral-El Pardo;False
+10. Latina;9. Moncloa;True
+10. Latina;11. Carabanchel;True
+10. Latina;12. Usera;False
+10. Latina;13. Puente de Vallecas;False
+10. Latina;14. Moratalaz;False
+10. Latina;15. Ciudad Lineal;False
+10. Latina;16. Hortaleza;False
+10. Latina;17. Villaverde;False
+10. Latina;18. Villa de Vallecas;False
+10. Latina;19. Vicálvaro;False
+10. Latina;20. San Blas;False
+10. Latina;21. Barajas;False
+11. Carabanchel;1. Centro;False
+11. Carabanchel;2. Arganzuela;True
+11. Carabanchel;3. Retiro;False
+11. Carabanchel;4. Salamanca;False
+11. Carabanchel;5. Chamartín;False
+11. Carabanchel;6. Tetuán;False
+11. Carabanchel;7. Chamberí;False
+11. Carabanchel;8. Fuencarral-El Pardo;False
+11. Carabanchel;9. Moncloa;False
+11. Carabanchel;10. Latina;True
+11. Carabanchel;12. Usera;True
+11. Carabanchel;13. Puente de Vallecas;False
+11. Carabanchel;14. Moratalaz;False
+11. Carabanchel;15. Ciudad Lineal;False
+11. Carabanchel;16. Hortaleza;False
+11. Carabanchel;17. Villaverde;True
+11. Carabanchel;18. Villa de Vallecas;False
+11. Carabanchel;19. Vicálvaro;False
+11. Carabanchel;20. San Blas;False
+11. Carabanchel;21. Barajas;False
+12. Usera;1. Centro;False
+12. Usera;2. Arganzuela;True
+12. Usera;3. Retiro;False
+12. Usera;4. Salamanca;False
+12. Usera;5. Chamartín;False
+12. Usera;6. Tetuán;False
+12. Usera;7. Chamberí;False
+12. Usera;8. Fuencarral-El Pardo;False
+12. Usera;9. Moncloa;False
+12. Usera;10. Latina;False
+12. Usera;11. Carabanchel;True
+12. Usera;13. Puente de Vallecas;True
+12. Usera;14. Moratalaz;False
+12. Usera;15. Ciudad Lineal;False
+12. Usera;16. Hortaleza;False
+12. Usera;17. Villaverde;True
+12. Usera;18. Villa de Vallecas;True
+12. Usera;19. Vicálvaro;False
+12. Usera;20. San Blas;False
+12. Usera;21. Barajas;False
+13. Puente de Vallecas;1. Centro;False
+13. Puente de Vallecas;2. Arganzuela;True
+13. Puente de Vallecas;3. Retiro;True
+13. Puente de Vallecas;4. Salamanca;False
+13. Puente de Vallecas;5. Chamartín;False
+13. Puente de Vallecas;6. Tetuán;False
+13. Puente de Vallecas;7. Chamberí;False
+13. Puente de Vallecas;8. Fuencarral-El Pardo;False
+13. Puente de Vallecas;9. Moncloa;False
+13. Puente de Vallecas;10. Latina;False
+13. Puente de Vallecas;11. Carabanchel;False
+13. Puente de Vallecas;12. Usera;True
+13. Puente de Vallecas;14. Moratalaz;True
+13. Puente de Vallecas;15. Ciudad Lineal;False
+13. Puente de Vallecas;16. Hortaleza;False
+13. Puente de Vallecas;17. Villaverde;True
+13. Puente de Vallecas;18. Villa de Vallecas;True
+13. Puente de Vallecas;19. Vicálvaro;True
+13. Puente de Vallecas;20. San Blas;False
+13. Puente de Vallecas;21. Barajas;False
+14. Moratalaz;1. Centro;False
+14. Moratalaz;2. Arganzuela;False
+14. Moratalaz;3. Retiro;True
+14. Moratalaz;4. Salamanca;True
+14. Moratalaz;5. Chamartín;False
+14. Moratalaz;6. Tetuán;False
+14. Moratalaz;7. Chamberí;False
+14. Moratalaz;8. Fuencarral-El Pardo;False
+14. Moratalaz;9. Moncloa;False
+14. Moratalaz;10. Latina;False
+14. Moratalaz;11. Carabanchel;False
+14. Moratalaz;12. Usera;False
+14. Moratalaz;13. Puente de Vallecas;True
+14. Moratalaz;15. Ciudad Lineal;True
+14. Moratalaz;16. Hortaleza;False
+14. Moratalaz;17. Villaverde;False
+14. Moratalaz;18. Villa de Vallecas;False
+14. Moratalaz;19. Vicálvaro;True
+14. Moratalaz;20. San Blas;True
+14. Moratalaz;21. Barajas;False
+15. Ciudad Lineal;1. Centro;False
+15. Ciudad Lineal;2. Arganzuela;False
+15. Ciudad Lineal;3. Retiro;True
+15. Ciudad Lineal;4. Salamanca;True
+15. Ciudad Lineal;5. Chamartín;True
+15. Ciudad Lineal;6. Tetuán;False
+15. Ciudad Lineal;7. Chamberí;False
+15. Ciudad Lineal;8. Fuencarral-El Pardo;False
+15. Ciudad Lineal;9. Moncloa;False
+15. Ciudad Lineal;10. Latina;False
+15. Ciudad Lineal;11. Carabanchel;False
+15. Ciudad Lineal;12. Usera;False
+15. Ciudad Lineal;13. Puente de Vallecas;False
+15. Ciudad Lineal;14. Moratalaz;True
+15. Ciudad Lineal;16. Hortaleza;True
+15. Ciudad Lineal;17. Villaverde;False
+15. Ciudad Lineal;18. Villa de Vallecas;False
+15. Ciudad Lineal;19. Vicálvaro;True
+15. Ciudad Lineal;20. San Blas;True
+15. Ciudad Lineal;21. Barajas;False
+16. Hortaleza;1. Centro;False
+16. Hortaleza;2. Arganzuela;False
+16. Hortaleza;3. Retiro;False
+16. Hortaleza;4. Salamanca;False
+16. Hortaleza;5. Chamartín;True
+16. Hortaleza;6. Tetuán;False
+16. Hortaleza;7. Chamberí;False
+16. Hortaleza;8. Fuencarral-El Pardo;True
+16. Hortaleza;9. Moncloa;False
+16. Hortaleza;10. Latina;False
+16. Hortaleza;11. Carabanchel;False
+16. Hortaleza;12. Usera;False
+16. Hortaleza;13. Puente de Vallecas;False
+16. Hortaleza;14. Moratalaz;False
+16. Hortaleza;15. Ciudad Lineal;True
+16. Hortaleza;17. Villaverde;False
+16. Hortaleza;18. Villa de Vallecas;False
+16. Hortaleza;19. Vicálvaro;False
+16. Hortaleza;20. San Blas;True
+16. Hortaleza;21. Barajas;True
+17. Villaverde;1. Centro;False
+17. Villaverde;2. Arganzuela;False
+17. Villaverde;3. Retiro;False
+17. Villaverde;4. Salamanca;False
+17. Villaverde;5. Chamartín;False
+17. Villaverde;6. Tetuán;False
+17. Villaverde;7. Chamberí;False
+17. Villaverde;8. Fuencarral-El Pardo;False
+17. Villaverde;9. Moncloa;False
+17. Villaverde;10. Latina;False
+17. Villaverde;11. Carabanchel;True
+17. Villaverde;12. Usera;True
+17. Villaverde;13. Puente de Vallecas;True
+17. Villaverde;14. Moratalaz;False
+17. Villaverde;15. Ciudad Lineal;False
+17. Villaverde;16. Hortaleza;False
+17. Villaverde;18. Villa de Vallecas;True
+17. Villaverde;19. Vicálvaro;False
+17. Villaverde;20. San Blas;False
+17. Villaverde;21. Barajas;False
+18. Villa de Vallecas;1. Centro;False
+18. Villa de Vallecas;2. Arganzuela;False
+18. Villa de Vallecas;3. Retiro;False
+18. Villa de Vallecas;4. Salamanca;False
+18. Villa de Vallecas;5. Chamartín;False
+18. Villa de Vallecas;6. Tetuán;False
+18. Villa de Vallecas;7. Chamberí;False
+18. Villa de Vallecas;8. Fuencarral-El Pardo;False
+18. Villa de Vallecas;9. Moncloa;False
+18. Villa de Vallecas;10. Latina;False
+18. Villa de Vallecas;11. Carabanchel;False
+18. Villa de Vallecas;12. Usera;True
+18. Villa de Vallecas;13. Puente de Vallecas;True
+18. Villa de Vallecas;14. Moratalaz;False
+18. Villa de Vallecas;15. Ciudad Lineal;False
+18. Villa de Vallecas;16. Hortaleza;False
+18. Villa de Vallecas;17. Villaverde;True
+18. Villa de Vallecas;19. Vicálvaro;True
+18. Villa de Vallecas;20. San Blas;False
+18. Villa de Vallecas;21. Barajas;False
+19. Vicálvaro;1. Centro;False
+19. Vicálvaro;2. Arganzuela;False
+19. Vicálvaro;3. Retiro;False
+19. Vicálvaro;4. Salamanca;False
+19. Vicálvaro;5. Chamartín;False
+19. Vicálvaro;6. Tetuán;False
+19. Vicálvaro;7. Chamberí;False
+19. Vicálvaro;8. Fuencarral-El Pardo;False
+19. Vicálvaro;9. Moncloa;False
+19. Vicálvaro;10. Latina;False
+19. Vicálvaro;11. Carabanchel;False
+19. Vicálvaro;12. Usera;False
+19. Vicálvaro;13. Puente de Vallecas;True
+19. Vicálvaro;14. Moratalaz;True
+19. Vicálvaro;15. Ciudad Lineal;True
+19. Vicálvaro;16. Hortaleza;False
+19. Vicálvaro;17. Villaverde;False
+19. Vicálvaro;18. Villa de Vallecas;True
+19. Vicálvaro;20. San Blas;True
+19. Vicálvaro;21. Barajas;False
+20. San Blas;1. Centro;False
+20. San Blas;2. Arganzuela;False
+20. San Blas;3. Retiro;False
+20. San Blas;4. Salamanca;False
+20. San Blas;5. Chamartín;False
+20. San Blas;6. Tetuán;False
+20. San Blas;7. Chamberí;False
+20. San Blas;8. Fuencarral-El Pardo;False
+20. San Blas;9. Moncloa;False
+20. San Blas;10. Latina;False
+20. San Blas;11. Carabanchel;False
+20. San Blas;12. Usera;False
+20. San Blas;13. Puente de Vallecas;False
+20. San Blas;14. Moratalaz;True
+20. San Blas;15. Ciudad Lineal;True
+20. San Blas;16. Hortaleza;True
+20. San Blas;17. Villaverde;False
+20. San Blas;18. Villa de Vallecas;False
+20. San Blas;19. Vicálvaro;True
+20. San Blas;21. Barajas;True
+21. Barajas;1. Centro;False
+21. Barajas;2. Arganzuela;False
+21. Barajas;3. Retiro;False
+21. Barajas;4. Salamanca;False
+21. Barajas;5. Chamartín;False
+21. Barajas;6. Tetuán;False
+21. Barajas;7. Chamberí;False
+21. Barajas;8. Fuencarral-El Pardo;False
+21. Barajas;9. Moncloa;False
+21. Barajas;10. Latina;False
+21. Barajas;11. Carabanchel;False
+21. Barajas;12. Usera;False
+21. Barajas;13. Puente de Vallecas;False
+21. Barajas;14. Moratalaz;False
+21. Barajas;15. Ciudad Lineal;False
+21. Barajas;16. Hortaleza;True
+21. Barajas;17. Villaverde;False
+21. Barajas;18. Villa de Vallecas;False
+21. Barajas;19. Vicálvaro;False
+21. Barajas;20. San Blas;True
