@@ -1,0 +1,110 @@
+A;B
+Centro;Arganzuela
+Centro;Retiro
+Centro;Salamanca
+Centro;Chamartín
+Centro;Chamberí
+Centro;Moncloa
+Centro;Latina
+Arganzuela;Centro
+Arganzuela;Retiro
+Arganzuela;Latina
+Arganzuela;Carabanchel
+Arganzuela;Usera
+Arganzuela;Puente de Vallecas
+Retiro;Centro
+Retiro;Arganzuela
+Retiro;Salamanca
+Retiro;Puente de Vallecas
+Retiro;Moratalaz
+Retiro;Ciudad Lineal
+Salamanca;Centro
+Salamanca;Retiro
+Salamanca;Chamartín
+Salamanca;Chamberí
+Salamanca;Moratalaz
+Salamanca;Ciudad Lineal
+Chamartín;Salamanca
+Chamartín;Tetuán
+Chamartín;Chamberí
+Chamartín;Fuencarral-El Pardo
+Chamartín;Ciudad Lineal
+Chamartín;Hortaleza
+Tetuán;Salamanca
+Tetuán;Chamartín
+Tetuán;Chamberí
+Tetuán;Fuencarral-El Pardo
+Tetuán;Moncloa
+Chamberí;Centro
+Chamberí;Retiro
+Chamberí;Salamanca
+Chamberí;Chamartín
+Chamberí;Tetuán
+Chamberí;Moncloa
+Fuencarral-El Pardo;Chamartín
+Fuencarral-El Pardo;Tetuán
+Fuencarral-El Pardo;Moncloa
+Fuencarral-El Pardo;Hortaleza
+Moncloa;Centro
+Moncloa;Tetuán
+Moncloa;Chamberí
+Moncloa;Fuencarral-El Pardo
+Moncloa;Latina
+Latina;Centro
+Latina;Arganzuela
+Latina;Moncloa
+Latina;Carabanchel
+Carabanchel;Arganzuela
+Carabanchel;Latina
+Carabanchel;Usera
+Carabanchel;Villaverde
+Usera;Arganzuela
+Usera;Carabanchel
+Usera;Puente de Vallecas
+Usera;Villaverde
+Usera;Villa de Vallecas
+Puente de Vallecas;Arganzuela
+Puente de Vallecas;Retiro
+Puente de Vallecas;Usera
+Puente de Vallecas;Moratalaz
+Puente de Vallecas;Villaverde
+Puente de Vallecas;Villa de Vallecas
+Puente de Vallecas;Vicálvaro
+Moratalaz;Retiro
+Moratalaz;Salamanca
+Moratalaz;Puente de Vallecas
+Moratalaz;Ciudad Lineal
+Moratalaz;Vicálvaro
+Moratalaz;San Blas
+Ciudad Lineal;Retiro
+Ciudad Lineal;Salamanca
+Ciudad Lineal;Chamartín
+Ciudad Lineal;Moratalaz
+Ciudad Lineal;Hortaleza
+Ciudad Lineal;Vicálvaro
+Ciudad Lineal;San Blas
+Hortaleza;Chamartín
+Hortaleza;Fuencarral-El Pardo
+Hortaleza;Ciudad Lineal
+Hortaleza;San Blas
+Hortaleza;Barajas
+Villaverde;Carabanchel
+Villaverde;Usera
+Villaverde;Puente de Vallecas
+Villaverde;Villa de Vallecas
+Villa de Vallecas;Usera
+Villa de Vallecas;Puente de Vallecas
+Villa de Vallecas;Villaverde
+Villa de Vallecas;Vicálvaro
+Vicálvaro;Puente de Vallecas
+Vicálvaro;Moratalaz
+Vicálvaro;Ciudad Lineal
+Vicálvaro;Villa de Vallecas
+Vicálvaro;San Blas
+San Blas;Moratalaz
+San Blas;Ciudad Lineal
+San Blas;Hortaleza
+San Blas;Vicálvaro
+San Blas;Barajas
+Barajas;Hortaleza
+Barajas;San Blas
