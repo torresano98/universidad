@@ -1,0 +1,8 @@
+[
+    {coin: "BTC", value: 10000},
+    {coin: "LTC", value: 5000},
+    {coin: "ETH", value: 3000},
+    {coin: "XMR", value: 1500},
+    {coin: "BCH", value: 1000},
+    {coin: "BTZ", value: 400}
+]
